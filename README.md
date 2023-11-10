@@ -1,1 +1,1 @@
-# EDA-bootcamp-Kafka-demos
+# EDA bootcamp Kafka demos
